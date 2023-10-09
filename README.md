@@ -1,12 +1,13 @@
 # Windows_files_sorting
-This is a small python app using Tkinter library. It will sort files in a windows directory according to the file type.
-#File Sorter
+
+This is a small Python app using the Tkinter library. It will sort files in a Windows directory according to the file type.
+## File Sorter
 File Sorter is a simple Python application that sorts files in your Downloads folder on Windows. It categorizes files into folders based on their file extensions, making it easier to find and organize your files.
 
-#Requirements
+## Requirements
 Python 3.7 or later
-tkinter module (pre-installed with Python)
-#Usage
+Tkinter module (pre-installed with Python)
+## Usage
 To use the File Sorter app, follow these steps:
 
 Clone the repository to your local machine.
